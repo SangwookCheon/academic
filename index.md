@@ -3,5 +3,12 @@ layout: home
 title: "Home"
 ---
 
-This is a website for the Duke Interpretable Mammography Lab. We aim to contribute to the health sector by developing interpretable machine learning models for better and safer cancer detection, create tools for more efficient diagnosis, and more. 
+We aim to contribute to the health sector by developing interpretable machine learning models and tools for better, safer, and more reliable cancer diagnosis.
 
+# Brief Overview
+
+We have been working for over \_ years on this issue.
+
+# Longer Overview
+
+This is a longer overview of our work so far.
