@@ -1,8 +1,8 @@
 menu:
   - { name: "people", url: "/people" }
   - { name: "publications", url: "/publications" }
-  - { name: "courses", url: "/courses" }
-  - { name: "cv", url: "/cv" }
+  # - { name: "courses", url: "/courses" }
+  # - { name: "cv", url: "/cv" }
   - { name: "contact", url: "/contact" }
 
 people:
@@ -57,7 +57,7 @@ social:
 contacts:
   - {
       name: "Dr. Alina Jade Barnett",
-      title: "Professor",
+      title: "Title",
       department: "Computer Science",
       institution: "Duke University",
       institution_address: "308 Research Dr, Durham, NC 27705, United States",
