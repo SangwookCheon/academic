@@ -56,13 +56,13 @@ social:
 
 contacts:
   - {
-      name: "Dr. Academia",
+      name: "Dr. Alina Jade Barnett",
       title: "Professor",
-      department: "Physics & Astronomy",
-      institution: "Some University",
-      institution_address: "1 Main Street, Canada",
+      department: "Computer Science",
+      institution: "Duke University",
+      institution_address: "308 Research Dr, Durham, NC 27705, United States",
       phone: "(000) 000-0000",
       email: "hello@university.edu",
-      office: "Science Building 505",
+      office: "Office Location",
       image: "assets/img/contact.jpg",
     }
