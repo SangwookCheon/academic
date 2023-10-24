@@ -5,12 +5,12 @@
       <p>Featured publications:</p>
       {% for item in site.data.publications.featured %}
         <!-- <p><a href="{{ item.url }}">{{ item.name }}</a></p> -->
-        <p>{{ item.name }} <b>{{ item.url }}</b></p>
+        <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
       {% endfor %}
     {% else %}
       {% for item in site.data.publications.index %}
         <!-- <p><a href="{{ item.url }}">{{ item.name }}</a></p> -->
-        <p>{{ item.name }} <b>{{ item.url }}</b></p>
+        <p>{{ item.name }} <b><a href="{{ item.url }}">{{ item.url }}</a></b></p>
       {% endfor %}
     {% endif %}
   </div>
